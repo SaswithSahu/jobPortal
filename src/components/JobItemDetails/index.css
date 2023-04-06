@@ -1,0 +1,141 @@
+.main-container {
+  background-color: #000000;
+  height: 100vh;
+}
+
+.job-details-container {
+  background-color: #000000;
+  padding-bottom: 40px;
+  min-height: 100vh;
+}
+.job-item-details {
+  margin-top: 80px;
+  margin-left: 60px;
+  margin-right: 40px;
+  margin-bottom: 60px;
+  background-color: #272727;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.job-title {
+  color: #ffffff;
+  margin-top: -10px;
+}
+.star {
+  height: 20px;
+  width: 20px;
+  margin-bottom: 3px;
+}
+.job-rating {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.company-logo {
+  height: 100px;
+  width: 100px;
+  margin-right: 16px;
+  margin-top: -40px;
+}
+.upper-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 50px;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+  margin-top: -25px;
+}
+.icons {
+  color: #cbd5e1;
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.cont {
+  color: #cbd5e1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+}
+.job-location {
+  display: flex;
+}
+.middle-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.description-similar {
+  color: #cbd5e1;
+  font-family: Roboto;
+  margin-left: 70px;
+}
+.description-para {
+  color: #cbd5e1;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+.salary {
+  font-size: 26px;
+}
+.skills-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-left: -100px;
+  margin-bottom: 60px;
+}
+.lifeAtCompany-container {
+  display: flex;
+  justify-content: space-between;
+}
+.company-image {
+  margin-left: 15px;
+  height: 350px;
+  width: 350px;
+}
+.last-container {
+  margin-left: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.visit-button {
+  background-color: transparent;
+  border: none;
+  color: #6366f1;
+  font-size: 40px;
+}
+.link-icon {
+  color: #6366f1;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.link {
+  font-size: 40px;
+  color: #6366f1;
+}
+.visit-button-container {
+  display: flex;
+  align-items: center;
+}
+.final-container {
+  display: flex;
+  justify-content: space-between;
+}
+.job-details-loader-container {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}

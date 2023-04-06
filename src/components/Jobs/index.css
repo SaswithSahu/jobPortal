@@ -1,0 +1,88 @@
+.job-container {
+  min-height: 100px;
+  background-color: #000000;
+  width: 100%;
+}
+.body-container {
+  padding: 40px;
+  display: flex;
+}
+.header2 {
+  color: #ffffff;
+  margin-top: 28px;
+}
+.list-container {
+  list-style: none;
+  margin-left: -30px;
+}
+.container1 {
+  margin-right: 20px;
+  width: 30%;
+}
+.container2 {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.search-container {
+  margin-left: 48px;
+  height: 40px;
+  width: 500px;
+  border: 1px solid #cbd5e1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  background-color: transparent;
+}
+.icon {
+  color: #ffffff;
+  background-color: #272727;
+  margin-top: 3px;
+  height: 37px;
+  width: 80px;
+  padding: 8px;
+}
+.input-search-element {
+  width: 380px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #ffffff;
+}
+.no-jobs-container {
+  background-color: #000000;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 40px;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.no-jobs-head {
+  font-size: 50px;
+  color: #ffffff;
+  font-family: Roboto;
+}
+.no-jobs-para {
+  color: #f8fafc;
+  font-size: 24px;
+}
+.products-loader-container {
+  margin-left: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.button-search {
+  border: 0px;
+  outline: none;
+  background-color: transparent;
+  margin-right: -6px;
+  cursor: pointer;
+}
+line {
+  margin: 20px;
+}

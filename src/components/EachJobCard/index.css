@@ -1,0 +1,84 @@
+.each-job-item {
+  background-color: #272727;
+  width: 100%;
+  padding: 20px;
+  min-height: 400px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.job-title {
+  color: #ffffff;
+  margin-top: 10px;
+  font-size: 27px;
+}
+#company-logo {
+  height: 80px;
+  width: 80px;
+  margin-top: -29px;
+  margin-right: 20px;
+}
+.star {
+  height: 20px;
+  width: 20px;
+  margin-bottom: 3px;
+}
+.job-rating {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+#upper-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 20px;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+  margin-top: -25px;
+}
+.icons {
+  color: #cbd5e1;
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.cont {
+  color: #cbd5e1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+  font-size: 20px;
+}
+.job-location {
+  display: flex;
+}
+.middle-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -30px;
+}
+.description {
+  color: #cbd5e1;
+  font-family: Roboto;
+  font-size: 30px;
+}
+.job-description-para {
+  color: #cbd5e1;
+  font-size: 18px;
+}
+.salary {
+  font-size: 26px;
+}
+.link {
+  text-decoration: none;
+}
+.line-main {
+  color: #cbd5e1;
+  margin-top: -30px;
+}

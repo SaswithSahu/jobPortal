@@ -1,0 +1,17 @@
+.skill-logo {
+  height: 80px;
+  width: 80px;
+  margin-right: 12px;
+}
+.skill {
+  color: #ffffff;
+  font-size: 25px;
+}
+.each-skill {
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 230px;
+  margin-bottom: 40px;
+}
